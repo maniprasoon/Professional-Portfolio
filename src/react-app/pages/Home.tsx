@@ -282,7 +282,7 @@ export default function Home() {
             <section className="site-banner bg-light" id="home">
               <div className="banner-area">
                 <div className="author text-center">
-                  <div className="author-img" style={{background: `url(https://res.cloudinary.com/ds8fnrk7s/image/upload/w_560,h_560,c_fill,q_auto,f_auto/v1755018930/DSC09674_nijrrs.jpg) no-repeat`, backgroundSize: 'cover', backgroundPosition: 'center'}}></div>
+                  <div className="author-img" style={{background: `url(https://mocha-cdn.com/0198b2d2-7528-79f9-88d6-f2a6b0e5bf4a/me-suit.png) no-repeat`, backgroundSize: 'cover', backgroundPosition: 'center'}}></div>
                   <h1 className="text-black font-staat font-size-40 text-uppercase py-3">Miryala Mani Prasoon</h1>
                   <h5 className="text-black font-ram font-size-27">I'm a <span id="typed" className="terminal-text">AI & ML Enthusiast</span></h5>
                   <div className="contact-info text-center pt-3">
